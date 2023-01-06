@@ -61,7 +61,7 @@ void printStack(st* s)
 
 int main()
 {
-    char* passengers[] = { "umut kabak","yusuf kabak","osman kabak","nesrin kabak","nuran kabak","messi","domagaj vida","inci kabak" };
+    char* passengers[] = { "umut","yusuf","osman","nesrin","nuran","kemal","deniz","yaren" };
 
     int passengerCount = sizeof(passengers) / sizeof(passengers[0]);
 
